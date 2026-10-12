@@ -12,7 +12,10 @@
     "binance payment",
     "bitcoin payment",
     "crypto api",
-	"bitcoin payment gateway"
+	"bitcoin payment gateway",
+	"best crypto payment gateway", 
+	  "fiat to crypto payment gateway",
+	  "cryptocurrency payment gateway"
   ],
   "type": "module",
   "main": "./dist/index.cjs",
