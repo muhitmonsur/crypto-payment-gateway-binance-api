@@ -439,3 +439,7 @@ Your Wallet ← Funds ← Blockchain confirmation
 ## License
 
 MIT
+
+## 🏷️ Keywords
+
+`crypto payment` `bitcoin payment laravel` `binance payment gateway` `usdt payment laravel` `usdc payment laravel` `crypto checkout laravel` `binance qr code laravel`  `binance pay api` `laravel crypto gateway` `best crypto payment gateway` `fiat to crypto payment gateway` `cryptocurrency payment gateway`
