@@ -440,6 +440,18 @@ Your Wallet ← Funds ← Blockchain confirmation
 
 MIT
 
+## 🖼 Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/muhitmonsur/assets/refs/heads/main/screenshot-1.png)
+![Screenshot 2](https://raw.githubusercontent.com/muhitmonsur/assets/refs/heads/main/screenshot-2.png)
+![Screenshot 4](https://raw.githubusercontent.com/muhitmonsur/assets/refs/heads/main/screenshot-4.png)
+![Screenshot 5](https://raw.githubusercontent.com/muhitmonsur/assets/refs/heads/main/screenshot-5.png)
+![Screenshot 6](https://raw.githubusercontent.com/muhitmonsur/assets/refs/heads/main/screenshot-6.png)
+![Screenshot 7](https://raw.githubusercontent.com/muhitmonsur/assets/refs/heads/main/screenshot-7.png)
+![Screenshot 8](https://raw.githubusercontent.com/muhitmonsur/assets/refs/heads/main/screenshot-8.png)
+
+---
+
 ## 🏷️ Keywords
 
 `crypto payment` `bitcoin payment laravel` `binance payment gateway` `usdt payment laravel` `usdc payment laravel` `crypto checkout laravel` `binance qr code laravel`  `binance pay api` `laravel crypto gateway` `best crypto payment gateway` `fiat to crypto payment gateway` `cryptocurrency payment gateway`
