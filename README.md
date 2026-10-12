@@ -440,6 +440,63 @@ Your Wallet ← Funds ← Blockchain confirmation
 
 MIT
 
+
+### 🌐 Description
+
+This SDK, powered by [PayerURL](https://payerurl.com), is a **non-custodial** crypto payment gateway that connects WooCommerce directly to your wallets. Payments receive in your wallet instantly, with no middlemen.
+
+With **XPUB (Extended Public Key)** support, the plugin can rotate through unlimited receiving addresses. This suits high-volume stores, crypto exchanges, and enterprise merchants.
+
+### ⚙️ How It Works
+
+1. The customer picks a cryptocurrency at checkout.
+2. Your fiat price (USD, EUR, GBP, JPY, CAD, AUD and 160+ more) is converted at the **live exchange rate**.
+3. The customer pays on-chain or with Binance Pay.
+4. Once the payment is confirmed, funds are credited **instantly to your wallet**.
+5. The WooCommerce order moves to **Processing** automatically through the API webhook. No manual steps are needed.
+
+---
+
+### 🌐 Supported Cryptocurrencies
+
+| Currency | Network / Method | Notes |
+|---|---|---|
+| **Bitcoin (BTC)** | Bitcoin | The world's #1 cryptocurrency |
+| **Ethereum (ETH)** | ERC20 | Leading smart-contract blockchain |
+| **USDT** | TRC20 (TRON) | Ultra-low fees |
+| **USDT** | ERC20 (Ethereum) | Tether on Ethereum |
+| **USDC** | ERC20 (Ethereum) | Trusted stablecoin |
+| **Binance QR Code** | Scan-to-pay | Contactless |
+| **TON** | The Open Network | |
+| **XPUB addresses** | HD wallet | Auto-rotating, unlimited transactions |
+
+---
+
+### ✨ Key Features
+
+| Feature | Detail |
+|---|---|
+| 🔑 **XPUB integration** | A unique address is generated for every order, for mass-volume transactions |
+| 🔗 **10+ crypto networks** | BTC, ETH, USDT (TRC20/ERC20), USDC (ERC20), Binance Pay, Binance QR, TON and more |
+| 💱 **169+ fiat currencies** | USD, EUR, GBP, JPY, CAD, AUD, INR and more, at real-time rates |
+| 🏦 **Non-custodial & trustless** | Funds go straight to your wallet. We never hold your crypto |
+| 🆓 **No KYC** | No identity verification on the Basic (free) plan |
+| 🚫 **No bank account needed** | Accept crypto with no traditional banking setup |
+| 💳 **Buy crypto with card or bank** | Customers can pay with Visa, Mastercard, credit/debit card or bank transfer. It is auto-converted to crypto for you |
+| ⏳ **Pay Later** | Flexible payment timing for customers |
+| ➗ **Auto partial-payment handling** | Order is marked *Processing* when ≥ 90% of the payment is received |
+| 🏷️ **Crypto discounts** | Offer crypto-specific discounts to encourage on-chain payments |
+| 📈 **Live exchange rate** | Real-time crypto/fiat conversion at checkout |
+| 🧱 **WooCommerce Blocks compatible** | Fully supports the modern checkout blocks |
+| 🚀 **HPOS compatible** | Ready for WooCommerce High-Performance Order Storage |
+| 🌍 **5 languages** | English, Spanish, Russian, Arabic and Portuguese |
+| ⚡ **Easy API key setup** | One-click credential check and save |
+| 📖 **Free & open source** | No hidden fees on the plugin itself |
+
+---
+
+
+
 ## 🖼 Screenshots
 
 ![Screenshot 1](https://raw.githubusercontent.com/muhitmonsur/assets/refs/heads/main/screenshot-1.png)
