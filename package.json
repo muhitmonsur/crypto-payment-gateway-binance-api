@@ -1,6 +1,6 @@
 {
   "name": "@muhitmonsur/crypto-payment-gateway-binance-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "access": "public",
   "description": "Crypto payment gateway SDK and Binance API for Node.js frameworks",
   "keywords": [
@@ -12,8 +12,6 @@
     "binance payment",
     "bitcoin payment",
     "crypto api",
-    "crypto on-ramp",
-    "card to crypto",
 	"bitcoin payment gateway"
   ],
   "type": "module",
