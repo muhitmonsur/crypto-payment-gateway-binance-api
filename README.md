@@ -63,13 +63,13 @@ pnpm add @muhitmonsur/crypto-payment-gateway-binance-api
 ES modules and TypeScript:
 
 ```js
-import { Payerurl } from 'binance-crypto-instant-payout-nodejs';
+import { Payerurl } from 'crypto-payment-gateway-binance-api';
 ```
 
 CommonJS:
 
 ```js
-const { Payerurl } = require('binance-crypto-instant-payout-nodejs');
+const { Payerurl } = require('crypto-payment-gateway-binance-api');
 ```
 
 ---
@@ -116,7 +116,7 @@ if (!PAYERURL_PUBLIC_KEY || !PAYERURL_SECRET_KEY) {
 ## Quick start
 
 ```js
-import { Payerurl } from 'binance-crypto-instant-payout-nodejs';
+import { Payerurl } from 'crypto-payment-gateway-binance-api';
 
 const payerurl = new Payerurl({
   publicKey: process.env.PAYERURL_PUBLIC_KEY,
@@ -178,7 +178,7 @@ if (result.ok) {
 
 ```js
 import express from 'express';
-import { Payerurl } from 'binance-crypto-instant-payout-nodejs';
+import { Payerurl } from 'crypto-payment-gateway-binance-api';
 
 const app = express();
 app.use(express.urlencoded({ extended: true }));
@@ -251,7 +251,7 @@ async function payWithCrypto(order) {
 
 ```ts
 // app/api/pay/route.ts
-import { Payerurl } from 'binance-crypto-instant-payout-nodejs';
+import { Payerurl } from 'crypto-payment-gateway-binance-api';
 import { NextResponse } from 'next/server';
 
 const payerurl = new Payerurl({
@@ -277,7 +277,7 @@ export async function POST(req: Request) {
 
 ```ts
 // app/api/payerurl/notify/route.ts
-import { Payerurl } from 'binance-crypto-instant-payout-nodejs';
+import { Payerurl } from 'crypto-payment-gateway-binance-api';
 import { NextResponse } from 'next/server';
 
 const payerurl = new Payerurl({
@@ -313,7 +313,7 @@ export async function POST(req: Request) {
 
 ```ts
 import { Injectable } from '@nestjs/common';
-import { Payerurl } from 'binance-crypto-instant-payout-nodejs';
+import { Payerurl } from 'crypto-payment-gateway-binance-api';
 
 @Injectable()
 export class PaymentService {
